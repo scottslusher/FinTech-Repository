@@ -1,6 +1,16 @@
 # *FinTech-Repository!*
 
+![markdown-image](markdown-image.png)
+
 > "...to boldly go where no one has before."
+
+### Directory
+
+[code](code)
+
+[data](data)
+
+[references](references)
 
 ---
 
